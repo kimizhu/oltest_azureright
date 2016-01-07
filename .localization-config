@@ -1,24 +1,6 @@
 {
   "Locales": [
-    "de-DE",
-    "es-ES",
-    "fr-FR",
-    "it-IT",
-    "ja-JP",
-    "ko-KR",
-    "pt-BR",
-    "ru-RU",
-    "zh-CN",
-    "zh-TW",
-    "cs-CZ",
-    "da-DK",
-    "hu-HU",
-    "nb-NO",
-    "nl-NL",
-    "pt-PT",
-    "sv-SE",
-    "pl-PL",
-    "fi-FI"
+    "ja-JP"
   ],
   "Files": [
     "oltest_azureright\\v1\\Topic\\Activating_Azure_Rights_Management.md",
